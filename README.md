@@ -15,7 +15,6 @@ arXiv: TBA (2023)
 
 ## To-Do
 
-+ More data for the 4-qubit, 4-layer example.
 + Consider a generative modeling example (?)
 + Consider a classical supervised learning example (?)
 + Add some details to README.
